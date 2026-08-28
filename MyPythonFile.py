@@ -1,3 +1,4 @@
-print('hello clean world')print('hello sustainable world')
+print('hello clean world')
+print('hello sustainable world')
 
 
